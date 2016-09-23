@@ -1,0 +1,11 @@
+{
+  "name": "webdoctor",
+  "description": "The webdoctor project - Agnosys Platform",
+  "main": "",
+  "authors": [
+    "Gigaloluwa Ilori"
+  ],
+  "license": "MIT",
+  "homepage": "index.php",
+  "private": true
+}

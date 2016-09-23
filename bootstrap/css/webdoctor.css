@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 19, 2016, 8:01:13 PM
+    Author     : gigaloluwa
+*/
+p {font-family: 'Josefin Slab', serif;}
+.profiles{height: 900px; padding-left: 5px}
+.callout {
+padding: 20px;
+margin: 20px 0;
+border: 1px solid #eee;
+border-left-width: 1px;
+border-radius: 3px;
+border-left-color: #428bca;
+}
